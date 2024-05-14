@@ -1,16 +1,11 @@
-### Hi there 👋
+# Hello, I'm Victor Costa
+## The bootcamp is great! 
+I have enrolled into Guillermo Rodas coding academy to become a **Full-Stack JavaScript Dev**.
+Lessons are great and I've got the **HYPE!**
 
-<!--
-**ccstvctr/ccstvctr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# What I've learned so far
+## 🦄 Semana 1
+1. To use unicorn emotes
+1. Set up the system
+1. Mark down
+1. Basics of Visual Code
