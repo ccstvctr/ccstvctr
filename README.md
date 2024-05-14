@@ -9,3 +9,12 @@ Lessons are great and I've got the **HYPE!**
 1. Set up the system
 1. Mark down
 1. Basics of Visual Code
+
+# These are the commands
+|command | description                     |
+|--------|---------------------------------|
+|cd      | navigate paths                  |
+|sudo    | enable super user privileges    |
+|ls      | list file content               |
+|alias   | list custom commands in terminal|
+|pwd     | displays which directory we are | 
