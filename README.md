@@ -9,6 +9,8 @@ Lessons are great and I've got the **HYPE!**
 1. Set up the system
 1. Mark down
 1. Basics of Visual Code
+1. HTML
+1. CSS
 
 # These are the commands
 |command | description                     |
@@ -18,3 +20,10 @@ Lessons are great and I've got the **HYPE!**
 |ls      | list file content               |
 |alias   | list custom commands in terminal|
 |pwd     | displays which directory we are | 
+
+# Alias commands
+|command | description                     |
+|--------|---------------------------------|
+|cv      | clear the screen                |
+|mostused| displays most used commands     |
+ 
